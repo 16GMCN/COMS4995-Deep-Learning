@@ -7,6 +7,6 @@
 
 ### Model Structure:
 ![](https://github.com/16GMCN/COMS4995-Deep-Learning/blob/master/pic/modelstru.png)
-We adopted the SCA structure as our core model.
+>* We adopted the SCA structure as our core model.
 ### SCA Structure:
 ![](https://github.com/16GMCN/COMS4995-Deep-Learning/blob/master/pic/SCA.png)
